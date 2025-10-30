@@ -1,0 +1,2105 @@
+Date: 28/10/2025
+Time: 15:36
+Phone Number: +51946194991
+Message: hola
+--------------------
+Date: 28/10/2025
+Time: 15:39
+Phone Number: +51986315613
+Message: prueba
+--------------------
+Date: 28/10/2025
+Time: 16:0
+Phone Number: +51921854483
+Message: hola prueba
+--------------------
+Date: 28/10/2025
+Time: 16:9
+Phone Number: +51986315613
+Message: prueba imagen
+--------------------
+Date: 28/10/2025
+Time: 16:9
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\1.jpeg
+Caption: prueba imagen
+--------------------
+Date: 28/10/2025
+Time: 16:10
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\2.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:10
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\3.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:11
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\4.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:11
+Phone Number: +51986315613
+Message: prueba imagen
+--------------------
+Date: 28/10/2025
+Time: 16:11
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\1.jpeg
+Caption: prueba imagen
+--------------------
+Date: 28/10/2025
+Time: 16:12
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\2.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:12
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\3.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:13
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\4.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:51
+Phone Number: +51986315613
+Message: prueba 1.2
+--------------------
+Date: 28/10/2025
+Time: 16:51
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\1.jpeg
+Caption: prueba 1.2
+--------------------
+Date: 28/10/2025
+Time: 16:51
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\2.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:52
+Phone Number: +51986315613
+Message: prueba 1.2
+--------------------
+Date: 28/10/2025
+Time: 16:52
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\1.jpeg
+Caption: prueba 1.2
+--------------------
+Date: 28/10/2025
+Time: 16:53
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\2.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:53
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\3.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:54
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\4.jpeg
+Caption: 
+--------------------
+Date: 28/10/2025
+Time: 16:55
+Phone Number: +51986315613
+Message: hola mensajes
+--------------------
+Date: 28/10/2025
+Time: 16:55
+Phone Number: +51986315613
+Image: C:\Users\HP\Downloads\Automatic-messages-main\Automatic-messages-main\imagenes\1.jpeg
+Caption: hola mensajes
+--------------------
+Date: 28/10/2025
+Time: 16:57
+Phone Number: +51986315613
+Message: holaaaaaa
+--------------------
+Date: 28/10/2025
+Time: 16:57
+Phone Number: +51946194991
+Message: holaaaaaa
+--------------------
+Date: 28/10/2025
+Time: 16:58
+Phone Number: +51986315613
+Message: haaaaaa
+--------------------
+Date: 28/10/2025
+Time: 16:58
+Phone Number: +51946194991
+Message: haaaaaa
+--------------------
+Date: 28/10/2025
+Time: 17:0
+Phone Number: +51986315613
+Message: hhhhhh
+--------------------
+Date: 28/10/2025
+Time: 17:0
+Phone Number: +51946194991
+Message: hhhhhh
+--------------------
+Date: 28/10/2025
+Time: 17:0
+Phone Number: +51921954483
+Message: hhhhhh
+--------------------
+Date: 28/10/2025
+Time: 17:8
+Phone Number: +51921854483
+Message: dasdasdas
+--------------------
+Date: 28/10/2025
+Time: 17:8
+Phone Number: +51946194991
+Message: dasdasdas
+--------------------
+Date: 28/10/2025
+Time: 17:8
+Phone Number: +51986315613
+Message: dasdasdas
+--------------------
+Date: 28/10/2025
+Time: 17:9
+Phone Number: +51921854483
+Message: holaaa
+--------------------
+Date: 28/10/2025
+Time: 17:10
+Phone Number:  +51946194991
+Message: holaaa
+--------------------
+Date: 28/10/2025
+Time: 17:10
+Phone Number:  +51986315613
+Message: holaaa
+--------------------
+Date: 28/10/2025
+Time: 17:17
+Phone Number: +51921854483
+Message: adas
+--------------------
+Date: 28/10/2025
+Time: 17:17
+Phone Number: +51946194991
+Message: adas
+--------------------
+Date: 28/10/2025
+Time: 17:18
+Phone Number: +51986315613
+Message: adas
+--------------------
+Date: 28/10/2025
+Time: 17:20
+Phone Number: +51921854483
+Message: holaaaaaaaaaaa fin
+--------------------
+Date: 28/10/2025
+Time: 17:21
+Phone Number: +51946194991
+Message: holaaaaaaaaaaa fin
+--------------------
+Date: 28/10/2025
+Time: 17:21
+Phone Number: +51986315613
+Message: holaaaaaaaaaaa fin
+--------------------
+Date: 28/10/2025
+Time: 17:22
+Phone Number: +51921854483
+Message: hola fin 2
+--------------------
+Date: 28/10/2025
+Time: 17:23
+Phone Number: +51946194991
+Message: hola fin 2
+--------------------
+Date: 28/10/2025
+Time: 17:24
+Phone Number: +51986315613
+Message: hola fin 2
+--------------------
+Date: 28/10/2025
+Time: 17:24
+Phone Number: +51968315613
+Message: hola fin 2
+--------------------
+Date: 28/10/2025
+Time: 17:29
+Phone Number: +51921854483
+Message: prueba 3
+--------------------
+Date: 28/10/2025
+Time: 17:29
+Phone Number: +51946194991
+Message: prueba 3
+--------------------
+Date: 28/10/2025
+Time: 17:30
+Phone Number: +51986315613
+Message: prueba 3
+--------------------
+Date: 28/10/2025
+Time: 18:36
+Phone Number: +51970609309
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:36
+Phone Number: +56977641588
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:36
+Phone Number: +51900441320
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:37
+Phone Number: +51904085550
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:37
+Phone Number: +51950748629
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:38
+Phone Number: +51948713401
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:38
+Phone Number: +51989245575
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:39
+Phone Number: +51963269003
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:39
+Phone Number: +51982057995
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:40
+Phone Number: +51992278494
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:40
+Phone Number: +51959172520
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:41
+Phone Number: +51947535779
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:41
+Phone Number: +51916568142
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:42
+Phone Number: +51978604599
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:42
+Phone Number: +51991444983
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:43
+Phone Number: +51984275759
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:43
+Phone Number: +51925980751
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:43
+Phone Number: +51938839147
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:44
+Phone Number: +51944671786
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:44
+Phone Number: +51986301207
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:45
+Phone Number: +51988858231
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:45
+Phone Number: +51948654429
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:46
+Phone Number: +51934562494
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:46
+Phone Number: +51964944168
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:47
+Phone Number: +51900285154
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:47
+Phone Number: +51945421752
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:48
+Phone Number: +51980410050
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:48
+Phone Number: +51943127554
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:49
+Phone Number: +51960195556
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:49
+Phone Number: +51926602334
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:50
+Phone Number: +51995927776
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:50
+Phone Number: +51990747817
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:51
+Phone Number: +51924556063
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:51
+Phone Number: +51954181422
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:51
+Phone Number: +51925905628
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:52
+Phone Number: +51926898656
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:52
+Phone Number: +51949172644
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:53
+Phone Number: +51993760266
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:53
+Phone Number: +51971871483
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:54
+Phone Number: +51946867490
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:54
+Phone Number: +51913523390
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:55
+Phone Number: +51930965863
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:55
+Phone Number: +51922318925
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:56
+Phone Number: +51960588066
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:56
+Phone Number: +51980838475
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:57
+Phone Number: +51992023045
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:57
+Phone Number: +51993519527
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:58
+Phone Number: +51930365635
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:58
+Phone Number: +51942447462
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:58
+Phone Number: +51993268965
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:59
+Phone Number: +51970022949
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 18:59
+Phone Number: +51918199554
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:0
+Phone Number: +51955729901
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:0
+Phone Number: +51977947617
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:1
+Phone Number: +51921446874
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:1
+Phone Number: +51989876482
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:2
+Phone Number: +51980734612
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:2
+Phone Number: +51982647635
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:3
+Phone Number: +51930538141
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:3
+Phone Number: +51930405661
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:4
+Phone Number: +51985907616
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:4
+Phone Number: +51999490599
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:5
+Phone Number: +51929361607
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:5
+Phone Number: +51970361898
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:5
+Phone Number: +51922319603
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:6
+Phone Number: +51994093686
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:6
+Phone Number: +51903410030
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:7
+Phone Number: +51963405577
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:7
+Phone Number: +51997418271
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:8
+Phone Number: +51913054543
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:8
+Phone Number: +51913914408
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:9
+Phone Number: +51985212478
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:9
+Phone Number: +51940194441
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:10
+Phone Number: +51970307259
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:10
+Phone Number: +51954169728
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:11
+Phone Number: +51923424559
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:11
+Phone Number: +51933478888
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:12
+Phone Number: +51993560175
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:12
+Phone Number: +51928502646
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:12
+Phone Number: +51963472787
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:13
+Phone Number: +51945841396
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:13
+Phone Number: +51999922476
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:14
+Phone Number: +51901437808
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:14
+Phone Number: +51904815985
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:15
+Phone Number: +51928832260
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:15
+Phone Number: +51926600877
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:16
+Phone Number: +51928044195
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:16
+Phone Number: +51991205300
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:17
+Phone Number: +51991770527
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:17
+Phone Number: +51949783374
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:18
+Phone Number: +51941513973
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:18
+Phone Number: +51945142443
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:19
+Phone Number: +51927164183
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:19
+Phone Number: +51971352686
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:19
+Phone Number: +51999646200
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:20
+Phone Number: +51991795993
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:20
+Phone Number: +51981023621
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:21
+Phone Number: +51906968230
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:21
+Phone Number: +51946328739
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 19:22
+Phone Number: +51987365730
+Message: 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 28/10/2025
+Time: 21:42
+Phone Number: +51921854483
+Message: 1. hola1
+--------------------
+Date: 28/10/2025
+Time: 21:43
+Phone Number: +51946194991
+Message: 2. hola 2
+--------------------
+Date: 28/10/2025
+Time: 21:43
+Phone Number: +51986315613
+Message: 3. hola1
+--------------------
+Date: 28/10/2025
+Time: 21:44
+Phone Number: +51921854483
+Message: 1. holaa 1
+--------------------
+Date: 28/10/2025
+Time: 21:45
+Phone Number: +51946194991
+Message: 2. holaaaa 2
+--------------------
+Date: 28/10/2025
+Time: 21:45
+Phone Number: +51986315613
+Message: 3. holaa 1
+--------------------
+Date: 28/10/2025
+Time: 21:51
+Phone Number: +51992211538
+Message: 1. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:52
+Phone Number: +51985348924
+Message: 2. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:52
+Phone Number: +51923892324
+Message: 3. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:53
+Phone Number: +51914876487
+Message: 4. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:53
+Phone Number: +51918328263
+Message: 5. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:54
+Phone Number: +51952420537
+Message: 6. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:54
+Phone Number: +51915254192
+Message: 7. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:54
+Phone Number: +51908861347
+Message: 8. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:55
+Phone Number: +51978699737
+Message: 9. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:55
+Phone Number: +51968756418
+Message: 10. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:56
+Phone Number: +51955784365
+Message: 11. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:56
+Phone Number: +51989621296
+Message: 12. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:57
+Phone Number: +51907224147
+Message: 13. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:57
+Phone Number: +51971942359
+Message: 14. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:58
+Phone Number: +51946593328
+Message: 15. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:58
+Phone Number: +51988213435
+Message: 16. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:59
+Phone Number: +51903093320
+Message: 17. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 21:59
+Phone Number: +51945571736
+Message: 18. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:0
+Phone Number: +51930321659
+Message: 19. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:0
+Phone Number: +51912166144
+Message: 20. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:1
+Phone Number: +51989936286
+Message: 21. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:1
+Phone Number: +51994944706
+Message: 22. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:1
+Phone Number: +51994617984
+Message: 23. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:2
+Phone Number: +51977174068
+Message: 24. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:2
+Phone Number: +51965332651
+Message: 25. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:3
+Phone Number: +51912800330
+Message: 26. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:3
+Phone Number: +51936331740
+Message: 27. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:4
+Phone Number: +51991577201
+Message: 28. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:4
+Phone Number: +51969813535
+Message: 29. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:5
+Phone Number: +51971185864
+Message: 30. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:5
+Phone Number: +51931778561
+Message: 31. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:6
+Phone Number: +51931827042
+Message: 32. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:6
+Phone Number: +51928220016
+Message: 33. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:7
+Phone Number: +51903151495
+Message: 34. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:7
+Phone Number: +51991914472
+Message: 35. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:8
+Phone Number: +51924148671
+Message: 36. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:8
+Phone Number: +51922094709
+Message: 37. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:8
+Phone Number: +51939395371
+Message: 38. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:9
+Phone Number: +51923529316
+Message: 39. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:9
+Phone Number: +51997008360
+Message: 40. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:10
+Phone Number: +51924460752
+Message: 41. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:10
+Phone Number: +51987414329
+Message: 42. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:11
+Phone Number: +51951540416
+Message: 43. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:11
+Phone Number: +51989620906
+Message: 44. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:12
+Phone Number: +51982201633
+Message: 45. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:12
+Phone Number: +51954825377
+Message: 46. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:13
+Phone Number: +51945901750
+Message: 47. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:13
+Phone Number: +51929359987
+Message: 48. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:14
+Phone Number: +51965680977
+Message: 49. 𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 🔥👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 28/10/2025
+Time: 22:14
+Phone Number: +51972648881
+Message: 50. 🔥𝗟𝗨𝗡𝗘𝗦 𝗬 𝗠𝗔𝗥𝗧𝗘𝗦 👉 Pollo + papas fritas + cremas + 𝟭/𝟰 𝗚𝗥𝗔𝗧𝗜𝗦 = 𝟰𝟲.𝟱𝟬
+--------------------
+Date: 30/10/2025
+Time: 15:38
+Phone Number: +51913130024
+Message: 1. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:38
+Phone Number: +51933336167
+Message: 2. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:39
+Phone Number: +51912494439
+Message: 3. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:39
+Phone Number: +51902460880
+Message: 4. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:40
+Phone Number: +51993725305
+Message: 5. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:40
+Phone Number: +51964122497
+Message: 6. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:41
+Phone Number: +51924777355
+Message: 7. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:41
+Phone Number: +51940793504
+Message: 8. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:42
+Phone Number: +51914982630
+Message: 9. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:42
+Phone Number: +51959656352
+Message: 10. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:43
+Phone Number: +51929309348
+Message: 11. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:43
+Phone Number: +51925156031
+Message: 12. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:44
+Phone Number: +51928171944
+Message: 13. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:44
+Phone Number: +51927528027
+Message: 14. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:45
+Phone Number: +51991939372
+Message: 15. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:45
+Phone Number: +51910713705
+Message: 16. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:46
+Phone Number: +51986726585
+Message: 17. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:46
+Phone Number: +51924309036
+Message: 18. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:47
+Phone Number: +51924309039
+Message: 19. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:47
+Phone Number: +51944059860
+Message: 20. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:48
+Phone Number: +51955303359
+Message: 21. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:48
+Phone Number: +51940406895
+Message: 22. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:49
+Phone Number: +51926434144
+Message: 23. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:49
+Phone Number: +51928695808
+Message: 24. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:50
+Phone Number: +51944673831
+Message: 25. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:50
+Phone Number: +51946438194
+Message: 26. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:51
+Phone Number: +51991767397
+Message: 27. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:51
+Phone Number: +51944767909
+Message: 28. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:52
+Phone Number: +51952285388
+Message: 29. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:52
+Phone Number: +51964699427
+Message: 30. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:53
+Phone Number: +51991493338
+Message: 31. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:53
+Phone Number: +51965304307
+Message: 32. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:54
+Phone Number: +51981597334
+Message: 33. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:54
+Phone Number: +51947710023
+Message: 34. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:55
+Phone Number: +51984257444
+Message: 35. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:55
+Phone Number: +51970518773
+Message: 36. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:56
+Phone Number: +51969530760
+Message: 37. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:56
+Phone Number: +51993747778
+Message: 38. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:57
+Phone Number: +51902973768
+Message: 39. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:57
+Phone Number: +51993917760
+Message: 40. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:58
+Phone Number: +51995549939
+Message: 41. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:58
+Phone Number: +51937075789
+Message: 42. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:59
+Phone Number: +51956596229
+Message: 43. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 15:59
+Phone Number: +51939721144
+Message: 44. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:0
+Phone Number: +51938166443
+Message: 45. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:0
+Phone Number: +51936534272
+Message: 46. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:1
+Phone Number: +51982436607
+Message: 47. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:1
+Phone Number: +51925291917
+Message: 48. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:2
+Phone Number: +51922114037
+Message: 49. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:2
+Phone Number: +51992832877
+Message: 50. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:3
+Phone Number: +51970370750
+Message: 51. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:3
+Phone Number: +51984761910
+Message: 52. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:4
+Phone Number: +51987159031
+Message: 53. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:4
+Phone Number: +51960583697
+Message: 54. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:5
+Phone Number: +51959720704
+Message: 55. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:5
+Phone Number: +51932372681
+Message: 56. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:6
+Phone Number: +51947926863
+Message: 57. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:6
+Phone Number: +51913306292
+Message: 58. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:7
+Phone Number: +51931103487
+Message: 59. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:7
+Phone Number: +51904696616
+Message: 60. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:8
+Phone Number: +51934757273
+Message: 61. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:8
+Phone Number: +51989230265
+Message: 62. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:9
+Phone Number: +51900068567
+Message: 63. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:9
+Phone Number: +51910829680
+Message: 64. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:10
+Phone Number: +51920508683
+Message: 65. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:10
+Phone Number: +51921151884
+Message: 66. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:11
+Phone Number: +51926986292
+Message: 67. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:11
+Phone Number: +51928898859
+Message: 68. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:12
+Phone Number: +51931516854
+Message: 69. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:12
+Phone Number: +51932209785
+Message: 70. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:13
+Phone Number: +51939640982
+Message: 71. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:13
+Phone Number: +51946190508
+Message: 72. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:14
+Phone Number: +51960831749
+Message: 73. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:14
+Phone Number: +51961756137
+Message: 74. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:15
+Phone Number: +51963736341
+Message: 75. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:15
+Phone Number: +51967181030
+Message: 76. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:16
+Phone Number: +51986915148
+Message: 77. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:16
+Phone Number: +51990915006
+Message: 78. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:17
+Phone Number: +51991265354
+Message: 79. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:17
+Phone Number: +51993707988
+Message: 80. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:18
+Phone Number: +51993866963
+Message: 81. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:18
+Phone Number: +51920899318
+Message: 82. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:19
+Phone Number: +51920051207
+Message: 83. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:19
+Phone Number: +51967811843
+Message: 84. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:20
+Phone Number: +51920462748
+Message: 85. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:20
+Phone Number: +51976743438
+Message: 86. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:21
+Phone Number: +51935890732
+Message: 87. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:21
+Phone Number: +51993553642
+Message: 88. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:22
+Phone Number: +51967266272
+Message: 89. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:22
+Phone Number: +51935298845
+Message: 90. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:23
+Phone Number: +51973614650
+Message: 91. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:23
+Phone Number: +51920820475
+Message: 92. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:24
+Phone Number: +51977459637
+Message: 93. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:24
+Phone Number: +51969588239
+Message: 94. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:25
+Phone Number: +51903145753
+Message: 95. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:25
+Phone Number: +51958699365
+Message: 96. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:26
+Phone Number: +51904626418
+Message: 97. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:26
+Phone Number: +51907650060
+Message: 98. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:27
+Phone Number: +51926926805
+Message: 99. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 16:27
+Phone Number: +51937361632
+Message: 100. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:2
+Phone Number: +51939716157
+Message: 101. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:2
+Phone Number: +51942349258
+Message: 102. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:3
+Phone Number: +51954190310
+Message: 103. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:3
+Phone Number: +51962970811
+Message: 104. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:4
+Phone Number: +51964343942
+Message: 105. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:4
+Phone Number: +51979454370
+Message: 106. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:5
+Phone Number: +51979727628
+Message: 107. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:5
+Phone Number: +51944163722
+Message: 108. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:6
+Phone Number: +51944697522
+Message: 109. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:6
+Phone Number: +51965281799
+Message: 110. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:7
+Phone Number: +51956967539
+Message: 111. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:7
+Phone Number: +51982894291
+Message: 112. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:8
+Phone Number: +51953246323
+Message: 113. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:8
+Phone Number: +51969332249
+Message: 114. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:9
+Phone Number: +51917025726
+Message: 115. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:9
+Phone Number: +51977332942
+Message: 116. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:10
+Phone Number: +51943198704
+Message: 117. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:10
+Phone Number: +51986040631
+Message: 118. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:11
+Phone Number: +51908850288
+Message: 119. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:11
+Phone Number: +51991774086
+Message: 120. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:12
+Phone Number: +51904548570
+Message: 121. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:12
+Phone Number: +51996728962
+Message: 122. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:13
+Phone Number: +51959729459
+Message: 123. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:13
+Phone Number: +51900110623
+Message: 124. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:14
+Phone Number: +51902983862
+Message: 125. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:14
+Phone Number: +51989804818
+Message: 126. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:15
+Phone Number: +51995705979
+Message: 127. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:15
+Phone Number: +51906108921
+Message: 128. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:16
+Phone Number: +51910417178
+Message: 129. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:16
+Phone Number: +51910436456
+Message: 130. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:17
+Phone Number: +51978029883
+Message: 131. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:17
+Phone Number: +51993822457
+Message: 132. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:18
+Phone Number: +51999330572
+Message: 133. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:18
+Phone Number: +51992249598
+Message: 134. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:19
+Phone Number: +51945591614
+Message: 135. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:19
+Phone Number: +51991225610
+Message: 136. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:20
+Phone Number: +51989707745
+Message: 137. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:20
+Phone Number: +51983263869
+Message: 138. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:21
+Phone Number: +51936085803
+Message: 139. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:21
+Phone Number: +51982893705
+Message: 140. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:22
+Phone Number: +51914694176
+Message: 141. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:22
+Phone Number: +51981323681
+Message: 142. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:23
+Phone Number: +51928193767
+Message: 143. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:23
+Phone Number: +51949276952
+Message: 144. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:24
+Phone Number: +51969128949
+Message: 145. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:24
+Phone Number: +51957115610
+Message: 146. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:25
+Phone Number: +51972259917
+Message: 147. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:25
+Phone Number: +51949252062
+Message: 148. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:26
+Phone Number: +51994690163
+Message: 149. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:26
+Phone Number: +51921590112
+Message: 150. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:27
+Phone Number: +51963472787
+Message: 151. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:27
+Phone Number: +51954277098
+Message: 152. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:28
+Phone Number: +51984478524
+Message: 153. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:28
+Phone Number: +51927490773
+Message: 154. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:29
+Phone Number: +51972261504
+Message: 155. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:29
+Phone Number: +51966351480
+Message: 156. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:30
+Phone Number: +51976617615
+Message: 157. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:30
+Phone Number: +51932145804
+Message: 158. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:31
+Phone Number: +51936145856
+Message: 159. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:31
+Phone Number: +51916411207
+Message: 160. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:32
+Phone Number: +51947940198
+Message: 161. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:32
+Phone Number: +51963893334
+Message: 162. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:33
+Phone Number: +51949630398
+Message: 163. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:33
+Phone Number: +51956402478
+Message: 164. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:34
+Phone Number: +51910484080
+Message: 165. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:34
+Phone Number: +51918876652
+Message: 166. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:35
+Phone Number: +51913449897
+Message: 167. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:35
+Phone Number: +51939392924
+Message: 168. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:36
+Phone Number: +51920634840
+Message: 169. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:36
+Phone Number: +51997808572
+Message: 170. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:37
+Phone Number: +51948063298
+Message: 171. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:37
+Phone Number: +51959638729
+Message: 172. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:38
+Phone Number: +51963283770
+Message: 173. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:38
+Phone Number: +51987985492
+Message: 174. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:39
+Phone Number: +51953139929
+Message: 175. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:39
+Phone Number: +51971177455
+Message: 176. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:40
+Phone Number: +51927343185
+Message: 177. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:40
+Phone Number: +51980208792
+Message: 178. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:41
+Phone Number: +51944177595
+Message: 179. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:41
+Phone Number: +51922224908
+Message: 180. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:42
+Phone Number: +51921530512
+Message: 181. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:42
+Phone Number: +51964642667
+Message: 182. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:43
+Phone Number: +51926246598
+Message: 183. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:43
+Phone Number: +51940718205
+Message: 184. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:44
+Phone Number: +51932058475
+Message: 185. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:44
+Phone Number: +51925278990
+Message: 186. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:45
+Phone Number: +51980858209
+Message: 187. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:45
+Phone Number: +51915368032
+Message: 188. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:46
+Phone Number: +51985089207
+Message: 189. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:46
+Phone Number: +51969869506
+Message: 190. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:47
+Phone Number: +51999944300
+Message: 191. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:47
+Phone Number: +51992378858
+Message: 192. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:48
+Phone Number: +51957311683
+Message: 193. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:48
+Phone Number: +51963753205
+Message: 194. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:49
+Phone Number: +51902685235
+Message: 195. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:49
+Phone Number: +51921594126
+Message: 196. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:50
+Phone Number: +51947593945
+Message: 197. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:50
+Phone Number: +51973038685
+Message: 198. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:51
+Phone Number: +51940397662
+Message: 199. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:51
+Phone Number: +51993506962
+Message: 200. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:52
+Phone Number: +51991229242
+Message: 201. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:52
+Phone Number: +51943413533
+Message: 202. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:53
+Phone Number: +51941152791
+Message: 203. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:53
+Phone Number: +51920756569
+Message: 204. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:54
+Phone Number: +51932173112
+Message: 205. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:54
+Phone Number: +51937194780
+Message: 206. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:55
+Phone Number: +51935181381
+Message: 207. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:55
+Phone Number: +51938883361
+Message: 208. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:56
+Phone Number: +51965899288
+Message: 209. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:56
+Phone Number: +51992079015
+Message: 210. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:57
+Phone Number: +51926051060
+Message: 211. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:57
+Phone Number: +51904123797
+Message: 212. 𝗛𝗢𝗬❗🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
+Date: 30/10/2025
+Time: 17:58
+Phone Number: +51958382201
+Message: 213. 𝗛𝗢𝗬❗🔥🔥🔥👉🏻 Pollo a la brasa + papas fritas + cremas = 𝟰𝟳.𝟱𝟬𝗣𝗜𝗗𝗘𝗟𝗢 𝗔𝗤𝗨𝗜 👉 https://wa.me/message/3CMRG2LX74C2F1 O a los siguientes números: ➡️ +51 914315911 ➡️ 015549412🔔 AVISO: Este número 𝗡𝗢 recibe pedidos. Porfavor ingresar al 𝗟𝗜𝗡𝗞 o a los números. Gracias por tu comprensión.
+--------------------
