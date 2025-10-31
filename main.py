@@ -16,6 +16,7 @@ MIN_BETWEEN_SECONDS = 12   # no menos de 12 para estabilidad
 # =====================================================================
 
 def normaliza_numeros(cadena: str):
+    # Normaliza lista y fuerza prefijo '+'
     bruto = cadena.replace("\n", ",").replace(" ", ",").split(",")
     nums = []
     for n in bruto:
@@ -64,10 +65,17 @@ class MyApp(QtWidgets.QMainWindow):
         super(MyApp, self).__init__()
         uic.loadUi("./design.ui", self)
 
-        # Ventana sin bordes (si tu UI ya lo usa)
+        # Ventana normal con barra de título del SO
         self.setWindowOpacity(1)
-        self.setWindowFlags(Qt.WindowType.FramelessWindowHint)
-        self.setAttribute(Qt.WidgetAttribute.WA_TranslucentBackground)
+        # Tamaño mínimo para no comprimir el contenido
+        try:
+            self.setMinimumSize(480, 560)
+        except Exception:
+            pass
+        try:
+            self.setWindowTitle("Mensajes Automáticos | Whatsapp")
+        except Exception:
+            pass
 
         self.click_position = None
 
@@ -78,7 +86,9 @@ class MyApp(QtWidgets.QMainWindow):
         self.send.clicked.connect(self.enviar)
         self.send.clicked.connect(self.clearData)
         self.help.clicked.connect(self.abrirAyuda)
-        self.btn_close.clicked.connect(lambda: self.close())
+        # Cerrar si existe boton de barra custom
+        if hasattr(self, "btn_close"):
+            self.btn_close.clicked.connect(lambda: self.close())
 
     # --- Inserta dinámicamente "mensaje2" debajo de "mensaje" ---
     def _ensure_second_message_field(self):
@@ -94,6 +104,11 @@ class MyApp(QtWidgets.QMainWindow):
         self.mensaje2 = QtWidgets.QLineEdit(self)
         self.mensaje2.setObjectName("mensaje2")
         self.mensaje2.setPlaceholderText("- Ingrese el mensaje B")
+        # Centrar texto del mensaje B
+        try:
+            self.mensaje2.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        except Exception:
+            pass
         try:
             self.mensaje2.setStyleSheet(base.styleSheet())
         except Exception:
@@ -131,10 +146,20 @@ class MyApp(QtWidgets.QMainWindow):
         try:
             self.ventana_ayuda = QtWidgets.QMainWindow()
             uic.loadUi("./help.ui", self.ventana_ayuda)
-            self.ventana_ayuda.btn_close.clicked.connect(lambda: self.ventana_ayuda.close())
+            if hasattr(self.ventana_ayuda, "btn_close"):
+                self.ventana_ayuda.btn_close.clicked.connect(lambda: self.ventana_ayuda.close())
+            # Ventana de ayuda normal (sin modo frameless)
             self.ventana_ayuda.setWindowOpacity(1)
-            self.ventana_ayuda.setWindowFlags(Qt.WindowType.FramelessWindowHint)
-            self.ventana_ayuda.setAttribute(Qt.WidgetAttribute.WA_TranslucentBackground)
+            # Ayuda: tamano minimo
+            try:
+                self.ventana_ayuda.setMinimumSize(480, 560)
+            except Exception:
+                pass
+            # Ayuda: titulo
+            try:
+                self.ventana_ayuda.setWindowTitle("Ayuda")
+            except Exception:
+                pass
             self.ventana_ayuda.show()
         except Exception:
             pass
@@ -144,11 +169,13 @@ class MyApp(QtWidgets.QMainWindow):
         return w.text().strip() if w and hasattr(w, "text") else ""
 
     def enviar(self):
+        # Leer entradas
         mensaje_a = self._leer_texto("mensaje")
         mensaje_b = self._leer_texto("mensaje2") or mensaje_a
         wait_time_str = self._leer_texto("time")
         numeros_str   = self._leer_texto("telefonos")
 
+        # Validaciones básicas
         if not mensaje_a:
             self.mostrarError("Error", "Escribe el Mensaje A.")
             return
@@ -164,8 +191,10 @@ class MyApp(QtWidgets.QMainWindow):
             self.mostrarError("Error", "Ingresa al menos un número (separados por coma/espacio).")
             return
 
+        # Envío alternando A/B
         enviar_mensajes(numeros, mensaje_a, mensaje_b, wait_between)
 
+        # Aviso final
         msg_box = QMessageBox()
         msg_box.setIcon(QMessageBox.Icon.Information)
         msg_box.setText(f"Envío terminado a {len(numeros)} destinatarios ✅")
@@ -179,6 +208,7 @@ class MyApp(QtWidgets.QMainWindow):
         if hasattr(self, "time"):      self.time.setText("")
 
     def mostrarError(self, title, message):
+        # Diálogo de advertencia simple
         msg_box = QMessageBox()
         msg_box.setIcon(QMessageBox.Icon.Warning)
         msg_box.setText(message)
@@ -187,17 +217,24 @@ class MyApp(QtWidgets.QMainWindow):
 
     # Arrastre de ventana
     def mousePressEvent(self, event):
-        if event.button() == Qt.MouseButton.LeftButton:
+        # Solo habilitar arrastre si la ventana es frameless
+        if (self.windowFlags() & Qt.WindowType.FramelessWindowHint) and event.button() == Qt.MouseButton.LeftButton:
             self.click_position = event.globalPosition().toPoint()
+        else:
+            super().mousePressEvent(event)
 
     def mouseMoveEvent(self, event):
-        if event.buttons() == Qt.MouseButton.LeftButton and self.click_position is not None:
+        if (self.windowFlags() & Qt.WindowType.FramelessWindowHint) and event.buttons() == Qt.MouseButton.LeftButton and self.click_position is not None:
             self.move(self.pos() + event.globalPosition().toPoint() - self.click_position)
             self.click_position = event.globalPosition().toPoint()
+        else:
+            super().mouseMoveEvent(event)
 
     def mouseReleaseEvent(self, event):
-        if event.button() == Qt.MouseButton.LeftButton:
+        if (self.windowFlags() & Qt.WindowType.FramelessWindowHint) and event.button() == Qt.MouseButton.LeftButton:
             self.click_position = None
+        else:
+            super().mouseReleaseEvent(event)
 
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
